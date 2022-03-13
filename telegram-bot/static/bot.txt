@@ -1,0 +1,17 @@
+[start]
+Kon'nichiwa!
+Good Morning!Good Afternoon!Good Evening!Good Night!
+
+My name is SmotryKino_bot, I'm a bot that will help you choose movies.
+Type command /help to see a list of all commands!
+[/start]
+
+["[start]", "...", "...", "/help", "[/start]"]
+
+[help]
+I can help you find the movie you want to watch.
+You can control me by sending the following commands:
+/start - telegram_bot launch
+/help - telegram_bot help
+/config - select greeting type!
+[/help]
